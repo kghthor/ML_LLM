@@ -1,0 +1,37 @@
+{
+    "name": "NTREX-128 ta-sd Evaluation Benchmark",
+    "taskType": {
+        "type": "translation"
+    },
+    "description": "News Test References for MT Evaluation from English into a total of 128 target languages with document-level information",
+    "languages": {
+        "sourceLanguage": "ta",
+        "targetLanguage": "sd"
+    },
+    "collectionSource": [
+        "NTREX-128",
+        "https://github.com/MicrosoftTranslator/NTREX"
+    ],
+    "domain": [
+        "news"
+    ],
+    "license": "cc-by-4.0",
+    "submitter": {
+        "name": "Microsoft",
+        "aboutMe": "News Test References for MT Evaluation from English into a total of 128 target languages with document-level information",
+        "team": [
+            {
+                "name": "Christian Federmann ",
+                "aboutMe": "Microsoft"
+            },
+            {
+                "name": "Tom Kocmi",
+                "aboutMe": "Microsoft"
+            },
+            {
+                "name": "Ying Xin",
+                "aboutMe": "Microsoft"
+            }
+        ]
+    }
+}

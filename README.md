@@ -7,7 +7,7 @@ This project develops a **Tamil-to-Sindhi machine translation model** using **pr
 ✅ Preprocessing of Tamil-Sindhi parallel data  
 ✅ Fine-tuning with Hugging Face Transformers  
 ✅ Google Colab GPU acceleration for faster training  
-✅ BLEU score evaluation for translation quality  
+✅ BLEU score evaluation for translation quality   
 
 ---
 

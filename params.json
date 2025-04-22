@@ -2,7 +2,7 @@
     "name": "NTREX-128 ta-sd Evaluation Benchmark",
     "taskType": {
         "type": "translation"
-    },
+    }, 
     "description": "News Test References for MT Evaluation from English into a total of 128 target languages with document-level information",
     "languages": {
         "sourceLanguage": "ta",

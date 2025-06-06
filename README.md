@@ -1,7 +1,7 @@
 # **Tamil-to-Sindhi Machine Translation Model**  
 This project develops a **Tamil-to-Sindhi machine translation model** using **pre-trained multilingual models** like **mBART** and **M2M-100**. The model is fine-tuned on the **NTREX_ta_sd_benchmark** dataset to improve translation accuracy.  
 
----
+--- 
 
 ## 🚀 **Features**  
 ✅ Preprocessing of Tamil-Sindhi parallel data  
